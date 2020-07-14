@@ -1,0 +1,4 @@
+# Created at 2020-06-25T16:02:00.258
+Boot Manifest-JAR contains absolute paths in classpath 'V:\Batch3\DailyUpdatedCodes\June_22_2020\BDD_Framework_export\us.tekschool.bdd.sdet\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
